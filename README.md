@@ -1,5 +1,5 @@
 # thapasya-2
-# Thapasya P - Resume Overview
+# Thapasya P 
 
 ## 📧 Contact Information
 - **Email:** kit26.eee305@gmail.com  
